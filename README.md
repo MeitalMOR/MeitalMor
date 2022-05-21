@@ -8,6 +8,11 @@
 
 <h3> Software Developer | Full - Stack</h3>
 
+<h2> About Me...👀:</h2>
+
+I'm software development Student, at John Bryce Academy.<br> Highly motivated, with great technical skills. Able to work
+independently as well as a part of a team.
+
 <h2>💻 My Skills:</h2>
 
 - Java
@@ -19,11 +24,6 @@
 - HTML
 - CSS
 - JavaScript
-
-<h2> About Me...👀:</h2>
-
-I'm software development Student, at John Bryce Academy.<br> Highly motivated, with great technical skills. Able to work
-independently as well as a part of a team.
 
 __Check out my GitHub repository:__
 
