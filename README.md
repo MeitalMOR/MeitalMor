@@ -25,7 +25,7 @@ independently as well as a part of a team.
 - CSS
 - JavaScript
 
-__Check out my GitHub repository:__
+__Check out my GitHub repositories:__
 
 <div>
   <p>
