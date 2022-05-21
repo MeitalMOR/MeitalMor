@@ -1,4 +1,4 @@
-![Meital Mor Banner Image](./Meital Mor.png)
+![Meital Mor Banner Image](./MeitalMor.png)
 <!-- <h2 align='center'>Meital Mor</h2>
 <p align='center'><b>Software Developer</b></p> -->
 
