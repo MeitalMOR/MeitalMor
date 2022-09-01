@@ -10,30 +10,27 @@
 
 <h2> About Me...👀:</h2>
 
-I'm software development Student, at John Bryce Academy.<br> Highly motivated, with great technical skills. Able to work
-independently as well as a part of a team.
+I'm looking for a software developer position to express my passion for coding and software development.</br> I love working with people as part of a team. I'm creative, highly autodidactic, and motivated to learn and develop.
 
 <h2>💻 My Skills:</h2>
 
-- Java
-- OOP
-- SQL
-- Design Patterns
-- Multi-Threading
-- Spring Framework
-- HTML
-- CSS
-- JavaScript
+- Java | OOP | Design Patterns | Spring Framework
+- MySQL
+- React | TypeScript
+- HTML | CSS | JavaScript
 
 __Check out my GitHub repositories:__
 
 <div>
   <p>
+    <a href="https://github.com/MeitalMOR/coupon-project-spring">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeitalMor&repo=coupon-project-spring" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/MeitalMOR/books-authors-spring-web">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeitalMor&repo=coupon-project-spring" alt="GitHub Stats" />
+    </a>
     <a href="https://github.com/MeitalMOR/coupon-project-BACKEND">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeitalMor&repo=coupon-project-BACKEND" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/laxmena/CloudOrg-Simulator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeitalMor&repo=books-authors-spring-web" alt="GitHub Stats" />
     </a>
   </p>
 </div>
