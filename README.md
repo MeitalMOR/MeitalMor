@@ -8,10 +8,6 @@
 
 <h3> Software Developer | Full - Stack</h3>
 
-<h2> About Me...👀:</h2>
-
-I'm looking for a software developer position to express my passion for coding and software development.</br> I love working with people as part of a team. I'm creative, highly autodidactic, and motivated to learn and develop.
-
 <h2>💻 My Skills:</h2>
 
 - Java | OOP | Design Patterns | Spring Framework
@@ -27,7 +23,7 @@ __Check out my GitHub repositories:__
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeitalMor&repo=coupon-project-spring" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/MeitalMOR/books-authors-spring-web">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeitalMor&repo=coupon-project-spring" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeitalMor&repo=books-authors-spring-web" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/MeitalMOR/coupon-project-BACKEND">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeitalMor&repo=coupon-project-BACKEND" alt="GitHub Stats" />
