@@ -21,7 +21,7 @@ __Check out my GitHub repositories:__
   <p>
     <a href="https://github.com/MeitalMOR/coupon-project-spring">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeitalMor&repo=coupon-project-spring" alt="GitHub Stats" />
-    </a>
+    </a> 
     <a href="https://github.com/MeitalMOR/books-authors-spring-web">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeitalMor&repo=books-authors-spring-web" alt="GitHub Stats" />
     </a>
