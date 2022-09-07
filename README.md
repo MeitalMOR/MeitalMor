@@ -15,22 +15,6 @@
 - React | TypeScript
 - HTML | CSS | JavaScript
 
-__Check out my GitHub repositories:__
-
-<div>
-  <p>
-    <a href="https://github.com/MeitalMOR/coupon-project-spring">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeitalMor&repo=coupon-project-spring" alt="GitHub Stats" />
-    </a> 
-    <a href="https://github.com/MeitalMOR/books-authors-spring-web">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeitalMor&repo=books-authors-spring-web" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/MeitalMOR/coupon-project-BACKEND">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeitalMor&repo=coupon-project-BACKEND" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
 <h2>📫 How to reach me:</h2>
 LinkedIn: https://www.linkedin.com/in/meital-mor
 
